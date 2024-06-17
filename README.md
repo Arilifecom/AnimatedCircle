@@ -1,4 +1,4 @@
-<h1>Next.js🌟Animation that smoothly moves over the circle to the specified position when the page is loaded</h1>
+<h1>Next.js🌟Circles fruits Animation|smoothly moves on the circle to Any position</h1>
 
 <h2>External Libraries used in this project:</h2>
 
