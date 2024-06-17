@@ -1,6 +1,4 @@
-<h1>Next.js🌟Transition animations on page enter and exit</h1>
-Enter: Gradient background from left to right<br>
-Exit: Gradient background from right to ledt
+<h1>Next.js🌟Animation that smoothly moves over the circle to the specified position when the page is loaded</h1>
 
 <h2>External Libraries used in this project:</h2>
 
@@ -9,4 +7,5 @@ Exit: Gradient background from right to ledt
   <li>Tailwind css</li>
 </ul>
 
-<img width="1375" alt="スクリーンショット 2024-06-10 17 37 07" src="https://github.com/Arilifecom/transitionSlide/assets/97996784/27302e27-3ee8-43c9-b052-edede37ed4d3">
+<img width="1249" alt="AnimatedCircle" src="https://github.com/Arilifecom/AnimatedCircle/assets/97996784/ebe541a1-5bd9-4e63-9de0-e7a118f2b422">
+
